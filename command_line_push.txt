@@ -1,0 +1,9 @@
+this is a text file that was made in raspberry pi
+this data was pushed from command line 
+going to try add to the repsoitory via git add "<name of this file>" 
+git status checks the status of the file 
+git commit -m "should commit change to repository"
+git push should push to repository
+
+
+
